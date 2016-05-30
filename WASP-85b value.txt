@@ -1,0 +1,295 @@
+Data from run completed on 2016-05-26 23:49:58
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 100
+Error on radius = 0.018875475825
+Error on mass = 0.0251871743258
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-26 23:50:33
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 100
+Error on radius = 0.018875475825
+Error on mass = 0.0251871743258
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-26 23:52:35
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 100
+Error on radius = 0.203071792989
+Error on mass = 7.12681819196e-07
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-26 23:54:00
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 100
+Error on radius = 0.201258144926
+Error on mass = 2.59647354162e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-26 23:54:53
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 100
+Error on radius = 0.200102786256
+Error on mass = 1.45267336312e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-27 00:03:09
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 2500
+Error on radius = 0.201832209225
+Error on mass = 3.85844366319e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-27 00:12:04
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 2500
+Error on radius = 0.203863168994
+Error on mass = 2.21576252148e-06
+
+-#-#-#-#-#-#-#
+
+Data from run completed from 1464304616.76 till 1464304653.27
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 250
+Error on radius = 0.204069506144
+Error on mass = 2.09740312482e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-27 00:19:21 for 35.1710600853s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 250
+Error on radius = 0.190353453833
+Error on mass = 1.89525960514e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-27 00:22:51 for 36.4915931225s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 250
+Error on radius = 0.204126591988
+Error on mass = 3.3993739782e-05
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-27 00:24:49 for 37.6922399998s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 250
+Error on radius = 0.204512138319
+Error on mass = 3.26425049059e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-27 12:45:26 for 1580.23384404s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 5000
+Error on radius = 0.200224535526
+Error on mass = 2.58619227146e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-27 16:05:59 for 9811.13212419s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 10000
+Error on radius = 0.200033460381
+Error on mass = 4.74166717192e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-27 17:11:55 for 257.936422825s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 1000
+Error on radius = 0.202222704201
+Error on mass = 5.60826105081e-07
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-27 18:24:25 for 3805.65419388s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 10000
+Error on radius = 0.202184009384
+Error on mass = 2.38893485564e-06
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-27 19:12:47 for 583.193382978s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 2500
+Error on radius = 0.201978207216
+Error on mass = 8.80012201544e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-29 23:23:06 for 498.108769894s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 2000
+Error on radius = 0.200707910543
+Error on mass = 3.50118340291e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-30 06:10:32 for 3.02267003059s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 4
+Error on radius = 0.165630773312
+Error on mass = 1.14154886588e-08
+Min, Max mass: -1.558865206e-08 , 1.21208628139e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-30 06:10:54 for 3.12147784233s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 4
+Error on radius = 0.182164440383
+Error on mass = 7.43776494934e-09
+Min, Max mass: -5.15501210583e-09 , 1.2249653365e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-30 06:11:26 for 3.22903394699s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 4
+Error on radius = 0.149581055435
+Error on mass = 5.40747770467e-09
+Min, Max mass: -1.2184303453e-10 , 1.40428404332e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-30 06:11:46 for 3.17172884941s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 4
+Error on radius = 0.155271715841
+Error on mass = 4.8716014559e-09
+Min, Max mass: 2.06478836009e-09 , 1.55050621222e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-30 06:12:22 for 3.69115281105s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 4
+Error on radius = 0.120401625102
+Error on mass = 1.05534246928e-08
+Min, Max mass: 1.1215935631e-08 , 3.27152860417e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-30 06:12:40 for 3.42161798477s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 4
+Error on radius = 0.259769640577
+Error on mass = 1.88928288269e-08
+Min, Max mass: -2.8763911996e-08 , 2.10408187194e-08
+
+-#-#-#-#-#-#-#
+
+Data from run completed on 2016-05-30 13:10:16 for 2759.10197878s
+Planet radius = 0.480966889429
+Planet mass = 1.20973990243e-08
+Planet t0 = 0.065644740504
+Scale = 0.158556781538
+Offset = -3.31092226042
+For n = 10000
+Error on radius = 0.201412090362
+Error on mass = 4.33741661633e-07
+Min, Max mass: -3.35342936959e-05 , 2.45158935167e-05
+
+-#-#-#-#-#-#-#
+
